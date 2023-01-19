@@ -12,6 +12,7 @@ $(function () {
     'JavaScript',
     'jQuery',
     'JSON',
+    'Python',
     'MySQL',
     'Node.js',
     'NoSQL',
